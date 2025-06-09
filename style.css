@@ -1,0 +1,116 @@
+
+
+
+
+* {
+    font-family: sans-serif,"Roboto";
+    background-color: #1f2937;
+  }
+  
+  
+  #headerlogo {
+    display: flex;
+    justify-content: space-between;
+    }
+  .headerbutton {
+    margin: auto;
+    color: #e5e7eb;
+    font-size: 18px;
+    }
+  .imgborder {
+    border: dotted #f9faf8;
+  }
+  .MainTitle {
+    padding-top: 120px;
+    padding-left: 20px;
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+  }
+  .subtext {
+    font-size: 18px;
+    color: #e5e7eb;
+    padding-left: 40px;
+    margin-right: 1400px;
+  }
+  .MainImage {
+    margin-left: 600px;
+    margin-top: -150px;
+    margin-bottom: 90px;
+    }
+  #mainsignup {
+    display: block;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    font-size: 18px;
+    margin-left: 40px;
+    margin-top: -300px;
+    }
+  .randominfo {
+    padding-top: 50px;
+    padding-bottom: 40px;
+    padding-left: 150px;
+    font-size: 36px;
+    color: #000000;
+    font-weight: 900;
+    background-color: #ffffff;
+  }
+  
+  #section2 {
+    margin-top: 280px;
+    }
+  
+  .subtextimages {
+    display: flex;
+    justify-content: space-around;
+    background-color: #ffffff;
+    padding-bottom: 150px;
+  }
+  
+  .subtexttxt {
+    display: flex;
+    justify-content: space-around;
+    margin-top: -100px;
+    background-color: #ffffff;
+  }
+  
+  .subtexttxtcolor {
+    background-color: #ffffff;
+    font-size: 18px;
+    color: #1f2937;
+    font-weight: 550;
+    margin-left: -50px;
+    margin-bottom: 50px;
+  }
+  .inspiringquote {
+    padding: 300px;
+    font-size: 36px;
+    background-color: #e5e7eb;
+    }
+  .quotecontentbox {
+    background-color: #e5e7eb;
+  }
+  #section3 {
+    padding: 300px;
+    background-color: #ffffff;
+  }
+  .donatenow1 {
+    padding: 50px;
+   background-color: #3882f6;
+    font-size: 24px
+  }
+  .donate2 {
+    display: flex;
+    margin-top: -25px;
+    background-color: #3882f6;
+    font-size: 18px;
+    padding: 50px;
+  }
+  .donatebutton { 
+    margin-left: 300px;
+    margin-top: -20px;
+    background-color: #3882f6;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px;
+  }
